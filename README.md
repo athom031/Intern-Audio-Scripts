@@ -28,5 +28,5 @@ Method to take raw lab test wav files and split them into individual utterances.
     python json_splitscript.py
 ```
 
-## Inspiration: 
+## Inspiration
 Optimized Keving Chuang's split script implementation
