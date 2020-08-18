@@ -18,7 +18,7 @@ Method to take raw lab test wav files and split them into individual utterances.
 * https://pip.pypa.io/en/stable/installing/pydub 
 2. Use pip to install pydub and use AudioSegment.
 * https://pypi.org/project/pydub/
-3.
+
 ### Getting Started
 
 1. Update config.JSON with raw and Utterance directories.
