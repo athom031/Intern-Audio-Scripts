@@ -19,7 +19,7 @@ Method to take raw lab test wav files and split them into individual utterances.
 2. Use pip to install pydub and use AudioSegment.
 * https://pypi.org/project/pydub/
 
-### Getting Started
+## Getting Started
 
 1. Update config.JSON with raw and Utterance directories.
 2. Make sure Utterance directory is empty.
@@ -28,6 +28,15 @@ Method to take raw lab test wav files and split them into individual utterances.
     python json_splitscript.py
 ```
 
+## Warnings
+
+1. RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work
+  warn("Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work", RuntimeWarning)
+  
+  RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work
+warn("Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work", RuntimeWarning)
 ## Inspiration
 
 Optimized Keving Chuang's split script implementation
+
+
