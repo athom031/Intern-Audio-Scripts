@@ -18,4 +18,4 @@ A collection of audio scripts built inspired by knowledge gained in 2018 summer 
 
 #### [README.md](https://github.com/athom031/InternAudioScripts/blob/master/AudioCutter/README.md)
 
-<!-- include: https://github.com/athom031/InternAudioScripts/blob/master/AudioCutter/README.md -->
+<!-- include: /AudioCutter/README.md -->
