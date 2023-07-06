@@ -16,7 +16,7 @@ Give a user an easy to use GUI that allows cutting out unwanted ranges of audio 
 ## Demo
 
 Fixing the Humma Song to take out the entire unnecessary pop rap verse.
-![DEMO](https://github.com/athom031/SubMusic/blob/master/Demo.png)
+![DEMO](https://github.com/athom031/InternAudioScripts/blob/master/AudioCutter/Demo.png)
 
 ## Prerequisites
 
