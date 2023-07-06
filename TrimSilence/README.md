@@ -8,7 +8,7 @@ Optimization of music editing.
 
 ## Demo
 
-![DEMO](https://github.com/athom031/InternAudioProjects/blob/master/TrimSilence/Demo.png)
+![DEMO](https://github.com/athom031/InternAudioScripts/blob/master/TrimSilence/Demo.png)
 
 ## Prerequisites
 
