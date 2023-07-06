@@ -21,7 +21,7 @@ Method to take raw lab test wav files and split them into individual utterances.
 
 ## Getting Started
 
-1. Update config.JSON with raw and Utterance directories.
+1. Update [config.JSON](https://github.com/athom031/InternAudioScripts/blob/master/SplitScript/config.JSON) with raw and Utterance directories.
 2. Make sure Utterance directory is empty.
 3. Run python script to split every raw file in raw directory:
 ```
