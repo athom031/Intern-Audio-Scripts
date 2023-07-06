@@ -10,7 +10,7 @@ Method to take raw lab test wav files and split them into individual utterances.
 
 ## Demo Images
 1. Used for algo training, users repeated utterances for 9 keywords.
-![Verification](https://github.com/athom031/blob/master/SplitScript/PlotVerification.jpg)
+![Verification](https://github.com/athom031/InternAudioScripts/blob/master/SplitScript/PlotVerification.jpg)
 
 ## Prerequisites
 
