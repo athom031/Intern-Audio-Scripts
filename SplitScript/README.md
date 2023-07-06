@@ -35,8 +35,9 @@ Method to take raw lab test wav files and split them into individual utterances.
   
   RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work
 warn("Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work", RuntimeWarning)
+
 ## Inspiration
 
-Optimized Keving Chuang's split script implementation
+Revamp of open source code used to split a single audio file of testing recordings into specific utterence files.
 
 
