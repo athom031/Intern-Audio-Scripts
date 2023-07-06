@@ -4,18 +4,12 @@ A collection of audio scripts built inspired by knowledge gained in 2018 summer 
 
 ### Split Script
 
-#### [README.md]()
-
-<embed src ='', width="100%" height = "1000px" type="application/pdf">
+#### See more info about this project in [SplitScript](https://github.com/athom031/InternAudioScripts/blob/master/SplitScript/)
 
 ### Trim Silence
 
-#### [README.md]()
-
-<embed src ='', width="100%" height = "1000px" type="application/pdf">
+#### See more info about this project in [TrimSilence](https://github.com/athom031/InternAudioScripts/blob/master/TrimSilence/)
 
 ### Audio Cutter
 
-#### [README.md](https://github.com/athom031/InternAudioScripts/blob/master/AudioCutter/README.md)
-
-<!-- include: /AudioCutter/README.md -->
+#### See more info about this project in [AudioCutter](https://github.com/athom031/InternAudioScripts/blob/master/AudioCutter/)
