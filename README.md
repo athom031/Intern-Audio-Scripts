@@ -1,6 +1,6 @@
 ## Audio Signal Procesing Projects
 
-Projects serve as a comprehensive summary of experience gained during first technical internship with [Knowles Intelligent Audio](https://www.knowles.com)
+Projects serve as a comprehensive summary of experience gained during first technical internship with [Knowles Intelligent Audio](https://www.knowles.com).
 
 ### Split Script 
 
